@@ -1,0 +1,50 @@
+B.b)Test the data with K = 100, sig = 0.1, r = 0.1, b = 0.02, S = 110 (check C = 18.5035, P = 3.03106).
+
+K: 100 sig: 0.1 r: 0.1 b: 0.02 S: 110
+S = 110, C( call option price ) = 18.5035, P( put option price ) = 3.03106
+S = 110, C( call option price ) = 18.5035
+S = 110, P( put option price ) = 3.03106
+
+B.c) Compute prices for a range of underlying value
+
+S = 10, C( call option price ) = 0.00826235, P( put option price ) = 9.03489e+06
+S = 11, C( call option price ) = 0.011227, P( put option price ) = 4.99557e+06
+S = 12, C( call option price ) = 0.0148535, P( put option price ) = 2.9084e+06
+S = 13, C( call option price ) = 0.0192158, P( put option price ) = 1.76823e+06
+S = 14, C( call option price ) = 0.0243891, P( put option price ) = 1.11544e+06
+S = 15, C( call option price ) = 0.03045, P( put option price ) = 726383
+S = 16, C( call option price ) = 0.0374762, P( put option price ) = 486308
+S = 17, C( call option price ) = 0.0455465, P( put option price ) = 333599
+S = 18, C( call option price ) = 0.054741, P( put option price ) = 233828
+S = 19, C( call option price ) = 0.0651405, P( put option price ) = 167076
+S = 20, C( call option price ) = 0.076827, P( put option price ) = 121457
+S = 21, C( call option price ) = 0.0898835, P( put option price ) = 89678.6
+S = 22, C( call option price ) = 0.104394, P( put option price ) = 67156
+S = 23, C( call option price ) = 0.120442, P( put option price ) = 50940.7
+S = 24, C( call option price ) = 0.138115, P( put option price ) = 39097.9
+S = 25, C( call option price ) = 0.157497, P( put option price ) = 30334.3
+S = 26, C( call option price ) = 0.178677, P( put option price ) = 23770.5
+S = 27, C( call option price ) = 0.201742, P( put option price ) = 18799.2
+S = 28, C( call option price ) = 0.226781, P( put option price ) = 14995
+S = 29, C( call option price ) = 0.253883, P( put option price ) = 12055.9
+S = 30, C( call option price ) = 0.283138, P( put option price ) = 9764.83
+S = 31, C( call option price ) = 0.314637, P( put option price ) = 7964.02
+S = 32, C( call option price ) = 0.348471, P( put option price ) = 6537.48
+S = 33, C( call option price ) = 0.384732, P( put option price ) = 5399.17
+S = 34, C( call option price ) = 0.423512, P( put option price ) = 4484.6
+S = 35, C( call option price ) = 0.464906, P( put option price ) = 3745.05
+S = 36, C( call option price ) = 0.509007, P( put option price ) = 3143.37
+S = 37, C( call option price ) = 0.555908, P( put option price ) = 2651.05
+S = 38, C( call option price ) = 0.605706, P( put option price ) = 2246.02
+S = 39, C( call option price ) = 0.658495, P( put option price ) = 1911.08
+S = 40, C( call option price ) = 0.714373, P( put option price ) = 1632.76
+S = 41, C( call option price ) = 0.773434, P( put option price ) = 1400.4
+S = 42, C( call option price ) = 0.835777, P( put option price ) = 1205.56
+S = 43, C( call option price ) = 0.901499, P( put option price ) = 1041.49
+S = 44, C( call option price ) = 0.970699, P( put option price ) = 902.784
+S = 45, C( call option price ) = 1.04347, P( put option price ) = 785.068
+S = 46, C( call option price ) = 1.11993, P( put option price ) = 684.8
+S = 47, C( call option price ) = 1.20015, P( put option price ) = 599.097
+S = 48, C( call option price ) = 1.28425, P( put option price ) = 525.597
+S = 49, C( call option price ) = 1.37233, P( put option price ) = 462.36
+S = 50, C( call option price ) = 1.46448, P( put option price ) = 407.787

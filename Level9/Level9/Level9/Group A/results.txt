@@ -1,0 +1,2095 @@
+Batch 1 
+
+A.1.a) Use option  functions
+Batch 1: C( call option price ) = 24.4279, P( put option price ) = 28.8479
+
+A.1.a) Use EuropeanOption class   functions
+Batch 1:
+C( call option price ) = 24.4279
+P( put option price ) = 28.8479
+
+
+Batch 1 
+
+A.1.b). Use put-call parity
+Batch 1:
+C( call option price ) = 24.4279
+P( put option price ) = 28.8479
+
+
+Batch 1 
+
+A.1.c). Use constructor with EuropeanOptionData and calculate option price as a function of underlying price.
+Batch 1:
+C( call option price ) = 24.4279
+P( put option price ) = 28.8479
+
+
+Batch 1 
+
+A.1.c). Compute prices for a range of underlying value.
+Batch 1: S = 10, C( call option price ) = 0.000183584, P( put option price ) = 102.42
+Batch 1: S = 11, C( call option price ) = 0.000375767, P( put option price ) = 101.42
+Batch 1: S = 12, C( call option price ) = 0.000708938, P( put option price ) = 100.421
+Batch 1: S = 13, C( call option price ) = 0.00125098, P( put option price ) = 99.4212
+Batch 1: S = 14, C( call option price ) = 0.00208778, P( put option price ) = 98.4221
+Batch 1: S = 15, C( call option price ) = 0.00332409, P( put option price ) = 97.4233
+Batch 1: S = 16, C( call option price ) = 0.00508392, P( put option price ) = 96.4251
+Batch 1: S = 17, C( call option price ) = 0.00751034, P( put option price ) = 95.4275
+Batch 1: S = 18, C( call option price ) = 0.0107649, P( put option price ) = 94.4308
+Batch 1: S = 19, C( call option price ) = 0.0150268, P( put option price ) = 93.435
+Batch 1: S = 20, C( call option price ) = 0.0204914, P( put option price ) = 92.4405
+Batch 1: S = 21, C( call option price ) = 0.027369, P( put option price ) = 91.4474
+Batch 1: S = 22, C( call option price ) = 0.035883, P( put option price ) = 90.4559
+Batch 1: S = 23, C( call option price ) = 0.0462684, P( put option price ) = 89.4663
+Batch 1: S = 24, C( call option price ) = 0.0587696, P( put option price ) = 88.4788
+Batch 1: S = 25, C( call option price ) = 0.0736393, P( put option price ) = 87.4936
+Batch 1: S = 26, C( call option price ) = 0.091136, P( put option price ) = 86.5111
+Batch 1: S = 27, C( call option price ) = 0.111523, P( put option price ) = 85.5315
+Batch 1: S = 28, C( call option price ) = 0.135065, P( put option price ) = 84.5551
+Batch 1: S = 29, C( call option price ) = 0.16203, P( put option price ) = 83.582
+Batch 1: S = 30, C( call option price ) = 0.192685, P( put option price ) = 82.6127
+Batch 1: S = 31, C( call option price ) = 0.227294, P( put option price ) = 81.6473
+Batch 1: S = 32, C( call option price ) = 0.26612, P( put option price ) = 80.6861
+Batch 1: S = 33, C( call option price ) = 0.309421, P( put option price ) = 79.7294
+Batch 1: S = 34, C( call option price ) = 0.35745, P( put option price ) = 78.7774
+Batch 1: S = 35, C( call option price ) = 0.410457, P( put option price ) = 77.8304
+Batch 1: S = 36, C( call option price ) = 0.46868, P( put option price ) = 76.8887
+Batch 1: S = 37, C( call option price ) = 0.532355, P( put option price ) = 75.9523
+Batch 1: S = 38, C( call option price ) = 0.601708, P( put option price ) = 75.0217
+Batch 1: S = 39, C( call option price ) = 0.676956, P( put option price ) = 74.0969
+Batch 1: S = 40, C( call option price ) = 0.758308, P( put option price ) = 73.1783
+Batch 1: S = 41, C( call option price ) = 0.845964, P( put option price ) = 72.266
+Batch 1: S = 42, C( call option price ) = 0.940116, P( put option price ) = 71.3601
+Batch 1: S = 43, C( call option price ) = 1.04094, P( put option price ) = 70.4609
+Batch 1: S = 44, C( call option price ) = 1.14862, P( put option price ) = 69.5686
+Batch 1: S = 45, C( call option price ) = 1.26331, P( put option price ) = 68.6833
+Batch 1: S = 46, C( call option price ) = 1.38515, P( put option price ) = 67.8051
+Batch 1: S = 47, C( call option price ) = 1.51431, P( put option price ) = 66.9343
+Batch 1: S = 48, C( call option price ) = 1.6509, P( put option price ) = 66.0709
+Batch 1: S = 49, C( call option price ) = 1.79506, P( put option price ) = 65.215
+Batch 1: S = 50, C( call option price ) = 1.94689, P( put option price ) = 64.3669
+
+
+Batch 1 
+
+A.1.d). Use constructor with EuropeanOptionData and calculate option price as a function of expiry time.
+Batch 1:
+C( call option price ) = 24.4279
+P( put option price ) = 28.8479
+
+
+Batch 1 
+
+A.1.d). Compute prices for a range of expiry time.
+Batch 1: T = 0.1, C( call option price ) = 2.95902, P( put option price ) = 14.4202
+Batch 1: T = 0.1225, C( call option price ) = 3.64189, P( put option price ) = 14.9822
+Batch 1: T = 0.145, C( call option price ) = 4.28793, P( put option price ) = 15.5075
+Batch 1: T = 0.1675, C( call option price ) = 4.90192, P( put option price ) = 16.0008
+Batch 1: T = 0.19, C( call option price ) = 5.48798, P( put option price ) = 16.4664
+Batch 1: T = 0.2125, C( call option price ) = 6.04952, P( put option price ) = 16.9075
+Batch 1: T = 0.235, C( call option price ) = 6.58937, P( put option price ) = 17.3271
+Batch 1: T = 0.2575, C( call option price ) = 7.10988, P( put option price ) = 17.7274
+Batch 1: T = 0.28, C( call option price ) = 7.61301, P( put option price ) = 18.1105
+Batch 1: T = 0.3025, C( call option price ) = 8.10044, P( put option price ) = 18.478
+Batch 1: T = 0.325, C( call option price ) = 8.57356, P( put option price ) = 18.8313
+Batch 1: T = 0.3475, C( call option price ) = 9.03361, P( put option price ) = 19.1717
+Batch 1: T = 0.37, C( call option price ) = 9.48162, P( put option price ) = 19.5002
+Batch 1: T = 0.3925, C( call option price ) = 9.91853, P( put option price ) = 19.8176
+Batch 1: T = 0.415, C( call option price ) = 10.3451, P( put option price ) = 20.1249
+Batch 1: T = 0.4375, C( call option price ) = 10.7622, P( put option price ) = 20.4228
+Batch 1: T = 0.46, C( call option price ) = 11.1702, P( put option price ) = 20.7118
+Batch 1: T = 0.4825, C( call option price ) = 11.5699, P( put option price ) = 20.9925
+Batch 1: T = 0.505, C( call option price ) = 11.9617, P( put option price ) = 21.2654
+Batch 1: T = 0.5275, C( call option price ) = 12.3461, P( put option price ) = 21.5311
+Batch 1: T = 0.55, C( call option price ) = 12.7234, P( put option price ) = 21.7899
+Batch 1: T = 0.5725, C( call option price ) = 13.0941, P( put option price ) = 22.0421
+Batch 1: T = 0.595, C( call option price ) = 13.4586, P( put option price ) = 22.2882
+Batch 1: T = 0.6175, C( call option price ) = 13.817, P( put option price ) = 22.5284
+Batch 1: T = 0.64, C( call option price ) = 14.1698, P( put option price ) = 22.7631
+Batch 1: T = 0.6625, C( call option price ) = 14.5171, P( put option price ) = 22.9924
+Batch 1: T = 0.685, C( call option price ) = 14.8593, P( put option price ) = 23.2167
+Batch 1: T = 0.7075, C( call option price ) = 15.1965, P( put option price ) = 23.4361
+Batch 1: T = 0.73, C( call option price ) = 15.5289, P( put option price ) = 23.651
+Batch 1: T = 0.7525, C( call option price ) = 15.8568, P( put option price ) = 23.8613
+Batch 1: T = 0.775, C( call option price ) = 16.1803, P( put option price ) = 24.0675
+Batch 1: T = 0.7975, C( call option price ) = 16.4997, P( put option price ) = 24.2695
+Batch 1: T = 0.82, C( call option price ) = 16.815, P( put option price ) = 24.4677
+Batch 1: T = 0.8425, C( call option price ) = 17.1263, P( put option price ) = 24.662
+Batch 1: T = 0.865, C( call option price ) = 17.434, P( put option price ) = 24.8527
+Batch 1: T = 0.8875, C( call option price ) = 17.738, P( put option price ) = 25.0399
+Batch 1: T = 0.91, C( call option price ) = 18.0385, P( put option price ) = 25.2237
+Batch 1: T = 0.9325, C( call option price ) = 18.3356, P( put option price ) = 25.4043
+Batch 1: T = 0.955, C( call option price ) = 18.6294, P( put option price ) = 25.5817
+Batch 1: T = 0.9775, C( call option price ) = 18.9201, P( put option price ) = 25.756
+Batch 1: T = 1, C( call option price ) = 19.2077, P( put option price ) = 25.9274
+
+
+Batch 1 
+
+A.1.d). Use constructor with EuropeanOptionData and calculate option price as a function of volatility
+Batch 1:
+C( call option price ) = 24.4279
+P( put option price ) = 28.8479
+
+
+Batch 1 
+
+A.1.d). Compute prices for a range of volatility.
+Batch 1: sig = 0.1, C( call option price ) = 3.37165, P( put option price ) = 7.79163
+Batch 1: sig = 0.1225, C( call option price ) = 4.50736, P( put option price ) = 8.92735
+Batch 1: sig = 0.145, C( call option price ) = 5.65799, P( put option price ) = 10.078
+Batch 1: sig = 0.1675, C( call option price ) = 6.81695, P( put option price ) = 11.2369
+Batch 1: sig = 0.19, C( call option price ) = 7.98059, P( put option price ) = 12.4006
+Batch 1: sig = 0.2125, C( call option price ) = 9.14674, P( put option price ) = 13.5667
+Batch 1: sig = 0.235, C( call option price ) = 10.3139, P( put option price ) = 14.7339
+Batch 1: sig = 0.2575, C( call option price ) = 11.4811, P( put option price ) = 15.9011
+Batch 1: sig = 0.28, C( call option price ) = 12.6476, P( put option price ) = 17.0676
+Batch 1: sig = 0.3025, C( call option price ) = 13.8128, P( put option price ) = 18.2328
+Batch 1: sig = 0.325, C( call option price ) = 14.9761, P( put option price ) = 19.3961
+Batch 1: sig = 0.3475, C( call option price ) = 16.1372, P( put option price ) = 20.5572
+Batch 1: sig = 0.37, C( call option price ) = 17.2958, P( put option price ) = 21.7157
+Batch 1: sig = 0.3925, C( call option price ) = 18.4514, P( put option price ) = 22.8713
+Batch 1: sig = 0.415, C( call option price ) = 19.6037, P( put option price ) = 24.0237
+Batch 1: sig = 0.4375, C( call option price ) = 20.7526, P( put option price ) = 25.1726
+Batch 1: sig = 0.46, C( call option price ) = 21.8978, P( put option price ) = 26.3178
+Batch 1: sig = 0.4825, C( call option price ) = 23.0389, P( put option price ) = 27.4589
+Batch 1: sig = 0.505, C( call option price ) = 24.1758, P( put option price ) = 28.5958
+Batch 1: sig = 0.5275, C( call option price ) = 25.3083, P( put option price ) = 29.7283
+Batch 1: sig = 0.55, C( call option price ) = 26.4361, P( put option price ) = 30.8561
+Batch 1: sig = 0.5725, C( call option price ) = 27.559, P( put option price ) = 31.979
+Batch 1: sig = 0.595, C( call option price ) = 28.6768, P( put option price ) = 33.0968
+Batch 1: sig = 0.6175, C( call option price ) = 29.7894, P( put option price ) = 34.2094
+Batch 1: sig = 0.64, C( call option price ) = 30.8965, P( put option price ) = 35.3164
+Batch 1: sig = 0.6625, C( call option price ) = 31.9979, P( put option price ) = 36.4179
+Batch 1: sig = 0.685, C( call option price ) = 33.0935, P( put option price ) = 37.5134
+Batch 1: sig = 0.7075, C( call option price ) = 34.183, P( put option price ) = 38.603
+Batch 1: sig = 0.73, C( call option price ) = 35.2664, P( put option price ) = 39.6864
+Batch 1: sig = 0.7525, C( call option price ) = 36.3434, P( put option price ) = 40.7634
+Batch 1: sig = 0.775, C( call option price ) = 37.4139, P( put option price ) = 41.8339
+Batch 1: sig = 0.7975, C( call option price ) = 38.4777, P( put option price ) = 42.8977
+Batch 1: sig = 0.82, C( call option price ) = 39.5346, P( put option price ) = 43.9546
+Batch 1: sig = 0.8425, C( call option price ) = 40.5846, P( put option price ) = 45.0046
+Batch 1: sig = 0.865, C( call option price ) = 41.6274, P( put option price ) = 46.0474
+Batch 1: sig = 0.8875, C( call option price ) = 42.6629, P( put option price ) = 47.0829
+Batch 1: sig = 0.91, C( call option price ) = 43.691, P( put option price ) = 48.1109
+Batch 1: sig = 0.9325, C( call option price ) = 44.7115, P( put option price ) = 49.1315
+Batch 1: sig = 0.955, C( call option price ) = 45.7243, P( put option price ) = 50.1443
+Batch 1: sig = 0.9775, C( call option price ) = 46.7293, P( put option price ) = 51.1492
+Batch 1: sig = 1, C( call option price ) = 47.7263, P( put option price ) = 52.1463
+
+
+Batch 1 
+
+A.1.d). Use constructor with EuropeanOption and calculate option price as a function of using any parameters
+Batch 1:
+C( call option price ) = 24.4279
+P( put option price ) = 28.8479
+
+
+
+A.2.a).
+Delta of Call = 0.594629, Delta of Put = -0.356601
+Gamma of Call = 0.0134936, Gamma of Put = 0.0134936
+
+Delta of Call = 0.594629
+Gamma of Call = 0.0134936
+Delta of Put = -0.356601
+Gamma of Put = 0.0134936
+
+
+
+A.2.b). Compute Delta for a range of underlying values.
+S = 10, Delta of Call = 2.25551e-19, Delta of Put = -0.951229
+S = 11, Delta of Call = 6.18174e-18, Delta of Put = -0.951229
+S = 12, Delta of Call = 1.12536e-16, Delta of Put = -0.951229
+S = 13, Delta of Call = 1.46673e-15, Delta of Put = -0.951229
+S = 14, Delta of Call = 1.44882e-14, Delta of Put = -0.951229
+S = 15, Delta of Call = 1.1336e-13, Delta of Put = -0.951229
+S = 16, Delta of Call = 7.27491e-13, Delta of Put = -0.951229
+S = 17, Delta of Call = 3.93787e-12, Delta of Put = -0.951229
+S = 18, Delta of Call = 1.83921e-11, Delta of Put = -0.951229
+S = 19, Delta of Call = 7.55191e-11, Delta of Put = -0.951229
+S = 20, Delta of Call = 2.76878e-10, Delta of Put = -0.951229
+S = 21, Delta of Call = 9.18317e-10, Delta of Put = -0.951229
+S = 22, Delta of Call = 2.78591e-09, Delta of Put = -0.951229
+S = 23, Delta of Call = 7.80377e-09, Delta of Put = -0.951229
+S = 24, Delta of Call = 2.0348e-08, Delta of Put = -0.951229
+S = 25, Delta of Call = 4.97346e-08, Delta of Put = -0.951229
+S = 26, Delta of Call = 1.14647e-07, Delta of Put = -0.951229
+S = 27, Delta of Call = 2.50577e-07, Delta of Put = -0.951229
+S = 28, Delta of Call = 5.21714e-07, Delta of Put = -0.951229
+S = 29, Delta of Call = 1.03903e-06, Delta of Put = -0.951228
+S = 30, Delta of Call = 1.98667e-06, Delta of Put = -0.951227
+S = 31, Delta of Call = 3.65877e-06, Delta of Put = -0.951226
+S = 32, Delta of Call = 6.5092e-06, Delta of Put = -0.951223
+S = 33, Delta of Call = 1.1216e-05, Delta of Put = -0.951218
+S = 34, Delta of Call = 1.87624e-05, Delta of Put = -0.951211
+S = 35, Delta of Call = 3.05351e-05, Delta of Put = -0.951199
+S = 36, Delta of Call = 4.84406e-05, Delta of Put = -0.951181
+S = 37, Delta of Call = 7.50367e-05, Delta of Put = -0.951154
+S = 38, Delta of Call = 0.00011368, Delta of Put = -0.951116
+S = 39, Delta of Call = 0.000168682, Delta of Put = -0.951061
+S = 40, Delta of Call = 0.000245471, Delta of Put = -0.950984
+S = 41, Delta of Call = 0.000350761, Delta of Put = -0.950879
+S = 42, Delta of Call = 0.000492699, Delta of Put = -0.950737
+S = 43, Delta of Call = 0.000681019, Delta of Put = -0.950548
+S = 44, Delta of Call = 0.000927157, Delta of Put = -0.950302
+S = 45, Delta of Call = 0.00124435, Delta of Put = -0.949985
+S = 46, Delta of Call = 0.00164771, Delta of Put = -0.949582
+S = 47, Delta of Call = 0.00215423, Delta of Put = -0.949075
+S = 48, Delta of Call = 0.00278276, Delta of Put = -0.948447
+S = 49, Delta of Call = 0.00355398, Delta of Put = -0.947675
+S = 50, Delta of Call = 0.00449025, Delta of Put = -0.946739
+
+
+
+A.2.c). Use divided differences for A.2.a)
+S = 105, h = 0.001, Delta of Call = 0.594629
+S = 105, h = 0.001, Delta of Put = -0.356601
+S = 105, h = 0.025975, Delta of Call = 0.594629
+S = 105, h = 0.025975, Delta of Put = -0.356601
+S = 105, h = 0.05095, Delta of Call = 0.594629
+S = 105, h = 0.05095, Delta of Put = -0.356601
+S = 105, h = 0.075925, Delta of Call = 0.594628
+S = 105, h = 0.075925, Delta of Put = -0.356601
+S = 105, h = 0.1009, Delta of Call = 0.594628
+S = 105, h = 0.1009, Delta of Put = -0.356601
+S = 105, h = 0.125875, Delta of Call = 0.594628
+S = 105, h = 0.125875, Delta of Put = -0.356602
+S = 105, h = 0.15085, Delta of Call = 0.594628
+S = 105, h = 0.15085, Delta of Put = -0.356602
+S = 105, h = 0.175825, Delta of Call = 0.594627
+S = 105, h = 0.175825, Delta of Put = -0.356602
+S = 105, h = 0.2008, Delta of Call = 0.594627
+S = 105, h = 0.2008, Delta of Put = -0.356603
+S = 105, h = 0.225775, Delta of Call = 0.594626
+S = 105, h = 0.225775, Delta of Put = -0.356603
+S = 105, h = 0.25075, Delta of Call = 0.594626
+S = 105, h = 0.25075, Delta of Put = -0.356604
+S = 105, h = 0.275725, Delta of Call = 0.594625
+S = 105, h = 0.275725, Delta of Put = -0.356604
+S = 105, h = 0.3007, Delta of Call = 0.594624
+S = 105, h = 0.3007, Delta of Put = -0.356605
+S = 105, h = 0.325675, Delta of Call = 0.594624
+S = 105, h = 0.325675, Delta of Put = -0.356606
+S = 105, h = 0.35065, Delta of Call = 0.594623
+S = 105, h = 0.35065, Delta of Put = -0.356607
+S = 105, h = 0.375625, Delta of Call = 0.594622
+S = 105, h = 0.375625, Delta of Put = -0.356608
+S = 105, h = 0.4006, Delta of Call = 0.594621
+S = 105, h = 0.4006, Delta of Put = -0.356609
+S = 105, h = 0.425575, Delta of Call = 0.59462
+S = 105, h = 0.425575, Delta of Put = -0.35661
+S = 105, h = 0.45055, Delta of Call = 0.594619
+S = 105, h = 0.45055, Delta of Put = -0.356611
+S = 105, h = 0.475525, Delta of Call = 0.594618
+S = 105, h = 0.475525, Delta of Put = -0.356612
+S = 105, h = 0.5005, Delta of Call = 0.594617
+S = 105, h = 0.5005, Delta of Put = -0.356613
+S = 105, h = 0.525475, Delta of Call = 0.594615
+S = 105, h = 0.525475, Delta of Put = -0.356614
+S = 105, h = 0.55045, Delta of Call = 0.594614
+S = 105, h = 0.55045, Delta of Put = -0.356615
+S = 105, h = 0.575425, Delta of Call = 0.594613
+S = 105, h = 0.575425, Delta of Put = -0.356617
+S = 105, h = 0.6004, Delta of Call = 0.594611
+S = 105, h = 0.6004, Delta of Put = -0.356618
+S = 105, h = 0.625375, Delta of Call = 0.59461
+S = 105, h = 0.625375, Delta of Put = -0.35662
+S = 105, h = 0.65035, Delta of Call = 0.594608
+S = 105, h = 0.65035, Delta of Put = -0.356621
+S = 105, h = 0.675325, Delta of Call = 0.594607
+S = 105, h = 0.675325, Delta of Put = -0.356623
+S = 105, h = 0.7003, Delta of Call = 0.594605
+S = 105, h = 0.7003, Delta of Put = -0.356624
+S = 105, h = 0.725275, Delta of Call = 0.594603
+S = 105, h = 0.725275, Delta of Put = -0.356626
+S = 105, h = 0.75025, Delta of Call = 0.594602
+S = 105, h = 0.75025, Delta of Put = -0.356628
+S = 105, h = 0.775225, Delta of Call = 0.5946
+S = 105, h = 0.775225, Delta of Put = -0.35663
+S = 105, h = 0.8002, Delta of Call = 0.594598
+S = 105, h = 0.8002, Delta of Put = -0.356632
+S = 105, h = 0.825175, Delta of Call = 0.594596
+S = 105, h = 0.825175, Delta of Put = -0.356634
+S = 105, h = 0.85015, Delta of Call = 0.594594
+S = 105, h = 0.85015, Delta of Put = -0.356636
+S = 105, h = 0.875125, Delta of Call = 0.594592
+S = 105, h = 0.875125, Delta of Put = -0.356638
+S = 105, h = 0.9001, Delta of Call = 0.59459
+S = 105, h = 0.9001, Delta of Put = -0.35664
+S = 105, h = 0.925075, Delta of Call = 0.594587
+S = 105, h = 0.925075, Delta of Put = -0.356642
+S = 105, h = 0.95005, Delta of Call = 0.594585
+S = 105, h = 0.95005, Delta of Put = -0.356644
+S = 105, h = 0.975025, Delta of Call = 0.594583
+S = 105, h = 0.975025, Delta of Put = -0.356647
+S = 105, h = 1, Delta of Call = 0.59458
+S = 105, h = 1, Delta of Put = -0.356649
+S = 105, h = 0.001, Gamma of Call = 0.0134937
+S = 105, h = 0.001, Gamma of Put = 0.0134936
+S = 105, h = 0.025975, Gamma of Call = 0.0134936
+S = 105, h = 0.025975, Gamma of Put = 0.0134936
+S = 105, h = 0.05095, Gamma of Call = 0.0134936
+S = 105, h = 0.05095, Gamma of Put = 0.0134936
+S = 105, h = 0.075925, Gamma of Call = 0.0134936
+S = 105, h = 0.075925, Gamma of Put = 0.0134936
+S = 105, h = 0.1009, Gamma of Call = 0.0134936
+S = 105, h = 0.1009, Gamma of Put = 0.0134936
+S = 105, h = 0.125875, Gamma of Call = 0.0134936
+S = 105, h = 0.125875, Gamma of Put = 0.0134936
+S = 105, h = 0.15085, Gamma of Call = 0.0134936
+S = 105, h = 0.15085, Gamma of Put = 0.0134936
+S = 105, h = 0.175825, Gamma of Call = 0.0134936
+S = 105, h = 0.175825, Gamma of Put = 0.0134936
+S = 105, h = 0.2008, Gamma of Call = 0.0134936
+S = 105, h = 0.2008, Gamma of Put = 0.0134936
+S = 105, h = 0.225775, Gamma of Call = 0.0134936
+S = 105, h = 0.225775, Gamma of Put = 0.0134936
+S = 105, h = 0.25075, Gamma of Call = 0.0134936
+S = 105, h = 0.25075, Gamma of Put = 0.0134936
+S = 105, h = 0.275725, Gamma of Call = 0.0134936
+S = 105, h = 0.275725, Gamma of Put = 0.0134936
+S = 105, h = 0.3007, Gamma of Call = 0.0134936
+S = 105, h = 0.3007, Gamma of Put = 0.0134936
+S = 105, h = 0.325675, Gamma of Call = 0.0134935
+S = 105, h = 0.325675, Gamma of Put = 0.0134935
+S = 105, h = 0.35065, Gamma of Call = 0.0134935
+S = 105, h = 0.35065, Gamma of Put = 0.0134935
+S = 105, h = 0.375625, Gamma of Call = 0.0134935
+S = 105, h = 0.375625, Gamma of Put = 0.0134935
+S = 105, h = 0.4006, Gamma of Call = 0.0134935
+S = 105, h = 0.4006, Gamma of Put = 0.0134935
+S = 105, h = 0.425575, Gamma of Call = 0.0134935
+S = 105, h = 0.425575, Gamma of Put = 0.0134935
+S = 105, h = 0.45055, Gamma of Call = 0.0134935
+S = 105, h = 0.45055, Gamma of Put = 0.0134935
+S = 105, h = 0.475525, Gamma of Call = 0.0134935
+S = 105, h = 0.475525, Gamma of Put = 0.0134935
+S = 105, h = 0.5005, Gamma of Call = 0.0134934
+S = 105, h = 0.5005, Gamma of Put = 0.0134934
+S = 105, h = 0.525475, Gamma of Call = 0.0134934
+S = 105, h = 0.525475, Gamma of Put = 0.0134934
+S = 105, h = 0.55045, Gamma of Call = 0.0134934
+S = 105, h = 0.55045, Gamma of Put = 0.0134934
+S = 105, h = 0.575425, Gamma of Call = 0.0134934
+S = 105, h = 0.575425, Gamma of Put = 0.0134934
+S = 105, h = 0.6004, Gamma of Call = 0.0134933
+S = 105, h = 0.6004, Gamma of Put = 0.0134933
+S = 105, h = 0.625375, Gamma of Call = 0.0134933
+S = 105, h = 0.625375, Gamma of Put = 0.0134933
+S = 105, h = 0.65035, Gamma of Call = 0.0134933
+S = 105, h = 0.65035, Gamma of Put = 0.0134933
+S = 105, h = 0.675325, Gamma of Call = 0.0134933
+S = 105, h = 0.675325, Gamma of Put = 0.0134933
+S = 105, h = 0.7003, Gamma of Call = 0.0134932
+S = 105, h = 0.7003, Gamma of Put = 0.0134932
+S = 105, h = 0.725275, Gamma of Call = 0.0134932
+S = 105, h = 0.725275, Gamma of Put = 0.0134932
+S = 105, h = 0.75025, Gamma of Call = 0.0134932
+S = 105, h = 0.75025, Gamma of Put = 0.0134932
+S = 105, h = 0.775225, Gamma of Call = 0.0134931
+S = 105, h = 0.775225, Gamma of Put = 0.0134931
+S = 105, h = 0.8002, Gamma of Call = 0.0134931
+S = 105, h = 0.8002, Gamma of Put = 0.0134931
+S = 105, h = 0.825175, Gamma of Call = 0.0134931
+S = 105, h = 0.825175, Gamma of Put = 0.0134931
+S = 105, h = 0.85015, Gamma of Call = 0.013493
+S = 105, h = 0.85015, Gamma of Put = 0.013493
+S = 105, h = 0.875125, Gamma of Call = 0.013493
+S = 105, h = 0.875125, Gamma of Put = 0.013493
+S = 105, h = 0.9001, Gamma of Call = 0.013493
+S = 105, h = 0.9001, Gamma of Put = 0.013493
+S = 105, h = 0.925075, Gamma of Call = 0.0134929
+S = 105, h = 0.925075, Gamma of Put = 0.0134929
+S = 105, h = 0.95005, Gamma of Call = 0.0134929
+S = 105, h = 0.95005, Gamma of Put = 0.0134929
+S = 105, h = 0.975025, Gamma of Call = 0.0134929
+S = 105, h = 0.975025, Gamma of Put = 0.0134929
+S = 105, h = 1, Gamma of Call = 0.0134928
+S = 105, h = 1, Gamma of Put = 0.0134928
+
+
+A.2.c). Use divided differences for A.2.b)
+S = 10, h = 0.001, Delta of Call = 2.25551e-19, Delta of Put = -0.951229
+S = 10, h = 0.025975, Delta of Call = 2.25857e-19, Delta of Put = -0.951229
+S = 10, h = 0.05095, Delta of Call = 2.2673e-19, Delta of Put = -0.951229
+S = 10, h = 0.075925, Delta of Call = 2.28174e-19, Delta of Put = -0.951229
+S = 10, h = 0.1009, Delta of Call = 2.30194e-19, Delta of Put = -0.951229
+S = 10, h = 0.125875, Delta of Call = 2.32798e-19, Delta of Put = -0.951229
+S = 10, h = 0.15085, Delta of Call = 2.35995e-19, Delta of Put = -0.951229
+S = 10, h = 0.175825, Delta of Call = 2.39799e-19, Delta of Put = -0.951229
+S = 10, h = 0.2008, Delta of Call = 2.44222e-19, Delta of Put = -0.951229
+S = 10, h = 0.225775, Delta of Call = 2.49282e-19, Delta of Put = -0.951229
+S = 10, h = 0.25075, Delta of Call = 2.54999e-19, Delta of Put = -0.951229
+S = 10, h = 0.275725, Delta of Call = 2.61393e-19, Delta of Put = -0.951229
+S = 10, h = 0.3007, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 10, h = 0.325675, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 10, h = 0.35065, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 10, h = 0.375625, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 10, h = 0.4006, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 10, h = 0.425575, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 10, h = 0.45055, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 10, h = 0.475525, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 10, h = 0.5005, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 10, h = 0.525475, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 10, h = 0.55045, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 10, h = 0.575425, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 10, h = 0.6004, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 10, h = 0.625375, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 10, h = 0.65035, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 10, h = 0.675325, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 10, h = 0.7003, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 10, h = 0.725275, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 10, h = 0.75025, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 10, h = 0.775225, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 10, h = 0.8002, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 10, h = 0.825175, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 10, h = 0.85015, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 10, h = 0.875125, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 10, h = 0.9001, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 10, h = 0.925075, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 10, h = 0.95005, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 10, h = 0.975025, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 10, h = 1, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 11, h = 0.001, Delta of Call = 2.25857e-19, Delta of Put = -0.951229
+S = 11, h = 0.025975, Delta of Call = 2.2673e-19, Delta of Put = -0.951229
+S = 11, h = 0.05095, Delta of Call = 2.28174e-19, Delta of Put = -0.951229
+S = 11, h = 0.075925, Delta of Call = 2.30194e-19, Delta of Put = -0.951229
+S = 11, h = 0.1009, Delta of Call = 2.32798e-19, Delta of Put = -0.951229
+S = 11, h = 0.125875, Delta of Call = 2.35995e-19, Delta of Put = -0.951229
+S = 11, h = 0.15085, Delta of Call = 2.39799e-19, Delta of Put = -0.951229
+S = 11, h = 0.175825, Delta of Call = 2.44222e-19, Delta of Put = -0.951229
+S = 11, h = 0.2008, Delta of Call = 2.49282e-19, Delta of Put = -0.951229
+S = 11, h = 0.225775, Delta of Call = 2.54999e-19, Delta of Put = -0.951229
+S = 11, h = 0.25075, Delta of Call = 2.61393e-19, Delta of Put = -0.951229
+S = 11, h = 0.275725, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 11, h = 0.3007, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 11, h = 0.325675, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 11, h = 0.35065, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 11, h = 0.375625, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 11, h = 0.4006, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 11, h = 0.425575, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 11, h = 0.45055, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 11, h = 0.475525, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 11, h = 0.5005, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 11, h = 0.525475, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 11, h = 0.55045, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 11, h = 0.575425, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 11, h = 0.6004, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 11, h = 0.625375, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 11, h = 0.65035, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 11, h = 0.675325, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 11, h = 0.7003, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 11, h = 0.725275, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 11, h = 0.75025, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 11, h = 0.775225, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 11, h = 0.8002, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 11, h = 0.825175, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 11, h = 0.85015, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 11, h = 0.875125, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 11, h = 0.9001, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 11, h = 0.925075, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 11, h = 0.95005, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 11, h = 0.975025, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 11, h = 1, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 12, h = 0.001, Delta of Call = 2.2673e-19, Delta of Put = -0.951229
+S = 12, h = 0.025975, Delta of Call = 2.28174e-19, Delta of Put = -0.951229
+S = 12, h = 0.05095, Delta of Call = 2.30194e-19, Delta of Put = -0.951229
+S = 12, h = 0.075925, Delta of Call = 2.32798e-19, Delta of Put = -0.951229
+S = 12, h = 0.1009, Delta of Call = 2.35995e-19, Delta of Put = -0.951229
+S = 12, h = 0.125875, Delta of Call = 2.39799e-19, Delta of Put = -0.951229
+S = 12, h = 0.15085, Delta of Call = 2.44222e-19, Delta of Put = -0.951229
+S = 12, h = 0.175825, Delta of Call = 2.49282e-19, Delta of Put = -0.951229
+S = 12, h = 0.2008, Delta of Call = 2.54999e-19, Delta of Put = -0.951229
+S = 12, h = 0.225775, Delta of Call = 2.61393e-19, Delta of Put = -0.951229
+S = 12, h = 0.25075, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 12, h = 0.275725, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 12, h = 0.3007, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 12, h = 0.325675, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 12, h = 0.35065, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 12, h = 0.375625, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 12, h = 0.4006, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 12, h = 0.425575, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 12, h = 0.45055, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 12, h = 0.475525, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 12, h = 0.5005, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 12, h = 0.525475, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 12, h = 0.55045, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 12, h = 0.575425, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 12, h = 0.6004, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 12, h = 0.625375, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 12, h = 0.65035, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 12, h = 0.675325, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 12, h = 0.7003, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 12, h = 0.725275, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 12, h = 0.75025, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 12, h = 0.775225, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 12, h = 0.8002, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 12, h = 0.825175, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 12, h = 0.85015, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 12, h = 0.875125, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 12, h = 0.9001, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 12, h = 0.925075, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 12, h = 0.95005, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 12, h = 0.975025, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 12, h = 1, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 13, h = 0.001, Delta of Call = 2.28174e-19, Delta of Put = -0.951229
+S = 13, h = 0.025975, Delta of Call = 2.30194e-19, Delta of Put = -0.951229
+S = 13, h = 0.05095, Delta of Call = 2.32798e-19, Delta of Put = -0.951229
+S = 13, h = 0.075925, Delta of Call = 2.35995e-19, Delta of Put = -0.951229
+S = 13, h = 0.1009, Delta of Call = 2.39799e-19, Delta of Put = -0.951229
+S = 13, h = 0.125875, Delta of Call = 2.44222e-19, Delta of Put = -0.951229
+S = 13, h = 0.15085, Delta of Call = 2.49282e-19, Delta of Put = -0.951229
+S = 13, h = 0.175825, Delta of Call = 2.54999e-19, Delta of Put = -0.951229
+S = 13, h = 0.2008, Delta of Call = 2.61393e-19, Delta of Put = -0.951229
+S = 13, h = 0.225775, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 13, h = 0.25075, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 13, h = 0.275725, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 13, h = 0.3007, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 13, h = 0.325675, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 13, h = 0.35065, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 13, h = 0.375625, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 13, h = 0.4006, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 13, h = 0.425575, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 13, h = 0.45055, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 13, h = 0.475525, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 13, h = 0.5005, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 13, h = 0.525475, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 13, h = 0.55045, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 13, h = 0.575425, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 13, h = 0.6004, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 13, h = 0.625375, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 13, h = 0.65035, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 13, h = 0.675325, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 13, h = 0.7003, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 13, h = 0.725275, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 13, h = 0.75025, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 13, h = 0.775225, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 13, h = 0.8002, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 13, h = 0.825175, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 13, h = 0.85015, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 13, h = 0.875125, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 13, h = 0.9001, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 13, h = 0.925075, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 13, h = 0.95005, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 13, h = 0.975025, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 13, h = 1, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 14, h = 0.001, Delta of Call = 2.30194e-19, Delta of Put = -0.951229
+S = 14, h = 0.025975, Delta of Call = 2.32798e-19, Delta of Put = -0.951229
+S = 14, h = 0.05095, Delta of Call = 2.35995e-19, Delta of Put = -0.951229
+S = 14, h = 0.075925, Delta of Call = 2.39799e-19, Delta of Put = -0.951229
+S = 14, h = 0.1009, Delta of Call = 2.44222e-19, Delta of Put = -0.951229
+S = 14, h = 0.125875, Delta of Call = 2.49282e-19, Delta of Put = -0.951229
+S = 14, h = 0.15085, Delta of Call = 2.54999e-19, Delta of Put = -0.951229
+S = 14, h = 0.175825, Delta of Call = 2.61393e-19, Delta of Put = -0.951229
+S = 14, h = 0.2008, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 14, h = 0.225775, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 14, h = 0.25075, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 14, h = 0.275725, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 14, h = 0.3007, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 14, h = 0.325675, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 14, h = 0.35065, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 14, h = 0.375625, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 14, h = 0.4006, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 14, h = 0.425575, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 14, h = 0.45055, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 14, h = 0.475525, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 14, h = 0.5005, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 14, h = 0.525475, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 14, h = 0.55045, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 14, h = 0.575425, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 14, h = 0.6004, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 14, h = 0.625375, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 14, h = 0.65035, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 14, h = 0.675325, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 14, h = 0.7003, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 14, h = 0.725275, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 14, h = 0.75025, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 14, h = 0.775225, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 14, h = 0.8002, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 14, h = 0.825175, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 14, h = 0.85015, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 14, h = 0.875125, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 14, h = 0.9001, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 14, h = 0.925075, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 14, h = 0.95005, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 14, h = 0.975025, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 14, h = 1, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 15, h = 0.001, Delta of Call = 2.32798e-19, Delta of Put = -0.951229
+S = 15, h = 0.025975, Delta of Call = 2.35995e-19, Delta of Put = -0.951229
+S = 15, h = 0.05095, Delta of Call = 2.39799e-19, Delta of Put = -0.951229
+S = 15, h = 0.075925, Delta of Call = 2.44222e-19, Delta of Put = -0.951229
+S = 15, h = 0.1009, Delta of Call = 2.49282e-19, Delta of Put = -0.951229
+S = 15, h = 0.125875, Delta of Call = 2.54999e-19, Delta of Put = -0.951229
+S = 15, h = 0.15085, Delta of Call = 2.61393e-19, Delta of Put = -0.951229
+S = 15, h = 0.175825, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 15, h = 0.2008, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 15, h = 0.225775, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 15, h = 0.25075, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 15, h = 0.275725, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 15, h = 0.3007, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 15, h = 0.325675, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 15, h = 0.35065, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 15, h = 0.375625, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 15, h = 0.4006, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 15, h = 0.425575, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 15, h = 0.45055, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 15, h = 0.475525, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 15, h = 0.5005, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 15, h = 0.525475, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 15, h = 0.55045, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 15, h = 0.575425, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 15, h = 0.6004, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 15, h = 0.625375, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 15, h = 0.65035, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 15, h = 0.675325, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 15, h = 0.7003, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 15, h = 0.725275, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 15, h = 0.75025, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 15, h = 0.775225, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 15, h = 0.8002, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 15, h = 0.825175, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 15, h = 0.85015, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 15, h = 0.875125, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 15, h = 0.9001, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 15, h = 0.925075, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 15, h = 0.95005, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 15, h = 0.975025, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 15, h = 1, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 16, h = 0.001, Delta of Call = 2.35995e-19, Delta of Put = -0.951229
+S = 16, h = 0.025975, Delta of Call = 2.39799e-19, Delta of Put = -0.951229
+S = 16, h = 0.05095, Delta of Call = 2.44222e-19, Delta of Put = -0.951229
+S = 16, h = 0.075925, Delta of Call = 2.49282e-19, Delta of Put = -0.951229
+S = 16, h = 0.1009, Delta of Call = 2.54999e-19, Delta of Put = -0.951229
+S = 16, h = 0.125875, Delta of Call = 2.61393e-19, Delta of Put = -0.951229
+S = 16, h = 0.15085, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 16, h = 0.175825, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 16, h = 0.2008, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 16, h = 0.225775, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 16, h = 0.25075, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 16, h = 0.275725, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 16, h = 0.3007, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 16, h = 0.325675, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 16, h = 0.35065, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 16, h = 0.375625, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 16, h = 0.4006, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 16, h = 0.425575, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 16, h = 0.45055, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 16, h = 0.475525, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 16, h = 0.5005, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 16, h = 0.525475, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 16, h = 0.55045, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 16, h = 0.575425, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 16, h = 0.6004, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 16, h = 0.625375, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 16, h = 0.65035, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 16, h = 0.675325, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 16, h = 0.7003, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 16, h = 0.725275, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 16, h = 0.75025, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 16, h = 0.775225, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 16, h = 0.8002, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 16, h = 0.825175, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 16, h = 0.85015, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 16, h = 0.875125, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 16, h = 0.9001, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 16, h = 0.925075, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 16, h = 0.95005, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 16, h = 0.975025, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 16, h = 1, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 17, h = 0.001, Delta of Call = 2.39799e-19, Delta of Put = -0.951229
+S = 17, h = 0.025975, Delta of Call = 2.44222e-19, Delta of Put = -0.951229
+S = 17, h = 0.05095, Delta of Call = 2.49282e-19, Delta of Put = -0.951229
+S = 17, h = 0.075925, Delta of Call = 2.54999e-19, Delta of Put = -0.951229
+S = 17, h = 0.1009, Delta of Call = 2.61393e-19, Delta of Put = -0.951229
+S = 17, h = 0.125875, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 17, h = 0.15085, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 17, h = 0.175825, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 17, h = 0.2008, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 17, h = 0.225775, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 17, h = 0.25075, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 17, h = 0.275725, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 17, h = 0.3007, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 17, h = 0.325675, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 17, h = 0.35065, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 17, h = 0.375625, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 17, h = 0.4006, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 17, h = 0.425575, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 17, h = 0.45055, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 17, h = 0.475525, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 17, h = 0.5005, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 17, h = 0.525475, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 17, h = 0.55045, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 17, h = 0.575425, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 17, h = 0.6004, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 17, h = 0.625375, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 17, h = 0.65035, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 17, h = 0.675325, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 17, h = 0.7003, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 17, h = 0.725275, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 17, h = 0.75025, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 17, h = 0.775225, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 17, h = 0.8002, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 17, h = 0.825175, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 17, h = 0.85015, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 17, h = 0.875125, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 17, h = 0.9001, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 17, h = 0.925075, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 17, h = 0.95005, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 17, h = 0.975025, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 17, h = 1, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 18, h = 0.001, Delta of Call = 2.44222e-19, Delta of Put = -0.951229
+S = 18, h = 0.025975, Delta of Call = 2.49282e-19, Delta of Put = -0.951229
+S = 18, h = 0.05095, Delta of Call = 2.54999e-19, Delta of Put = -0.951229
+S = 18, h = 0.075925, Delta of Call = 2.61393e-19, Delta of Put = -0.951229
+S = 18, h = 0.1009, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 18, h = 0.125875, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 18, h = 0.15085, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 18, h = 0.175825, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 18, h = 0.2008, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 18, h = 0.225775, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 18, h = 0.25075, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 18, h = 0.275725, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 18, h = 0.3007, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 18, h = 0.325675, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 18, h = 0.35065, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 18, h = 0.375625, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 18, h = 0.4006, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 18, h = 0.425575, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 18, h = 0.45055, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 18, h = 0.475525, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 18, h = 0.5005, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 18, h = 0.525475, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 18, h = 0.55045, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 18, h = 0.575425, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 18, h = 0.6004, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 18, h = 0.625375, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 18, h = 0.65035, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 18, h = 0.675325, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 18, h = 0.7003, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 18, h = 0.725275, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 18, h = 0.75025, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 18, h = 0.775225, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 18, h = 0.8002, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 18, h = 0.825175, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 18, h = 0.85015, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 18, h = 0.875125, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 18, h = 0.9001, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 18, h = 0.925075, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 18, h = 0.95005, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 18, h = 0.975025, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 18, h = 1, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 19, h = 0.001, Delta of Call = 2.49282e-19, Delta of Put = -0.951229
+S = 19, h = 0.025975, Delta of Call = 2.54999e-19, Delta of Put = -0.951229
+S = 19, h = 0.05095, Delta of Call = 2.61393e-19, Delta of Put = -0.951229
+S = 19, h = 0.075925, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 19, h = 0.1009, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 19, h = 0.125875, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 19, h = 0.15085, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 19, h = 0.175825, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 19, h = 0.2008, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 19, h = 0.225775, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 19, h = 0.25075, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 19, h = 0.275725, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 19, h = 0.3007, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 19, h = 0.325675, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 19, h = 0.35065, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 19, h = 0.375625, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 19, h = 0.4006, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 19, h = 0.425575, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 19, h = 0.45055, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 19, h = 0.475525, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 19, h = 0.5005, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 19, h = 0.525475, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 19, h = 0.55045, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 19, h = 0.575425, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 19, h = 0.6004, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 19, h = 0.625375, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 19, h = 0.65035, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 19, h = 0.675325, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 19, h = 0.7003, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 19, h = 0.725275, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 19, h = 0.75025, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 19, h = 0.775225, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 19, h = 0.8002, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 19, h = 0.825175, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 19, h = 0.85015, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 19, h = 0.875125, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 19, h = 0.9001, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 19, h = 0.925075, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 19, h = 0.95005, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 19, h = 0.975025, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 19, h = 1, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 20, h = 0.001, Delta of Call = 2.54999e-19, Delta of Put = -0.951229
+S = 20, h = 0.025975, Delta of Call = 2.61393e-19, Delta of Put = -0.951229
+S = 20, h = 0.05095, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 20, h = 0.075925, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 20, h = 0.1009, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 20, h = 0.125875, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 20, h = 0.15085, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 20, h = 0.175825, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 20, h = 0.2008, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 20, h = 0.225775, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 20, h = 0.25075, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 20, h = 0.275725, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 20, h = 0.3007, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 20, h = 0.325675, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 20, h = 0.35065, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 20, h = 0.375625, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 20, h = 0.4006, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 20, h = 0.425575, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 20, h = 0.45055, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 20, h = 0.475525, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 20, h = 0.5005, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 20, h = 0.525475, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 20, h = 0.55045, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 20, h = 0.575425, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 20, h = 0.6004, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 20, h = 0.625375, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 20, h = 0.65035, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 20, h = 0.675325, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 20, h = 0.7003, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 20, h = 0.725275, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 20, h = 0.75025, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 20, h = 0.775225, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 20, h = 0.8002, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 20, h = 0.825175, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 20, h = 0.85015, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 20, h = 0.875125, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 20, h = 0.9001, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 20, h = 0.925075, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 20, h = 0.95005, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 20, h = 0.975025, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 20, h = 1, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 21, h = 0.001, Delta of Call = 2.61393e-19, Delta of Put = -0.951229
+S = 21, h = 0.025975, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 21, h = 0.05095, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 21, h = 0.075925, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 21, h = 0.1009, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 21, h = 0.125875, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 21, h = 0.15085, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 21, h = 0.175825, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 21, h = 0.2008, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 21, h = 0.225775, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 21, h = 0.25075, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 21, h = 0.275725, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 21, h = 0.3007, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 21, h = 0.325675, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 21, h = 0.35065, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 21, h = 0.375625, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 21, h = 0.4006, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 21, h = 0.425575, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 21, h = 0.45055, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 21, h = 0.475525, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 21, h = 0.5005, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 21, h = 0.525475, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 21, h = 0.55045, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 21, h = 0.575425, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 21, h = 0.6004, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 21, h = 0.625375, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 21, h = 0.65035, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 21, h = 0.675325, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 21, h = 0.7003, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 21, h = 0.725275, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 21, h = 0.75025, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 21, h = 0.775225, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 21, h = 0.8002, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 21, h = 0.825175, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 21, h = 0.85015, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 21, h = 0.875125, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 21, h = 0.9001, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 21, h = 0.925075, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 21, h = 0.95005, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 21, h = 0.975025, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 21, h = 1, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 22, h = 0.001, Delta of Call = 2.6849e-19, Delta of Put = -0.951229
+S = 22, h = 0.025975, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 22, h = 0.05095, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 22, h = 0.075925, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 22, h = 0.1009, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 22, h = 0.125875, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 22, h = 0.15085, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 22, h = 0.175825, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 22, h = 0.2008, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 22, h = 0.225775, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 22, h = 0.25075, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 22, h = 0.275725, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 22, h = 0.3007, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 22, h = 0.325675, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 22, h = 0.35065, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 22, h = 0.375625, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 22, h = 0.4006, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 22, h = 0.425575, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 22, h = 0.45055, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 22, h = 0.475525, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 22, h = 0.5005, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 22, h = 0.525475, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 22, h = 0.55045, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 22, h = 0.575425, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 22, h = 0.6004, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 22, h = 0.625375, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 22, h = 0.65035, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 22, h = 0.675325, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 22, h = 0.7003, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 22, h = 0.725275, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 22, h = 0.75025, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 22, h = 0.775225, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 22, h = 0.8002, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 22, h = 0.825175, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 22, h = 0.85015, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 22, h = 0.875125, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 22, h = 0.9001, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 22, h = 0.925075, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 22, h = 0.95005, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 22, h = 0.975025, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 22, h = 1, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 23, h = 0.001, Delta of Call = 2.76315e-19, Delta of Put = -0.951229
+S = 23, h = 0.025975, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 23, h = 0.05095, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 23, h = 0.075925, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 23, h = 0.1009, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 23, h = 0.125875, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 23, h = 0.15085, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 23, h = 0.175825, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 23, h = 0.2008, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 23, h = 0.225775, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 23, h = 0.25075, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 23, h = 0.275725, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 23, h = 0.3007, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 23, h = 0.325675, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 23, h = 0.35065, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 23, h = 0.375625, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 23, h = 0.4006, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 23, h = 0.425575, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 23, h = 0.45055, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 23, h = 0.475525, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 23, h = 0.5005, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 23, h = 0.525475, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 23, h = 0.55045, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 23, h = 0.575425, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 23, h = 0.6004, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 23, h = 0.625375, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 23, h = 0.65035, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 23, h = 0.675325, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 23, h = 0.7003, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 23, h = 0.725275, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 23, h = 0.75025, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 23, h = 0.775225, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 23, h = 0.8002, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 23, h = 0.825175, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 23, h = 0.85015, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 23, h = 0.875125, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 23, h = 0.9001, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 23, h = 0.925075, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 23, h = 0.95005, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 23, h = 0.975025, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 23, h = 1, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 24, h = 0.001, Delta of Call = 2.84899e-19, Delta of Put = -0.951229
+S = 24, h = 0.025975, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 24, h = 0.05095, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 24, h = 0.075925, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 24, h = 0.1009, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 24, h = 0.125875, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 24, h = 0.15085, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 24, h = 0.175825, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 24, h = 0.2008, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 24, h = 0.225775, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 24, h = 0.25075, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 24, h = 0.275725, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 24, h = 0.3007, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 24, h = 0.325675, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 24, h = 0.35065, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 24, h = 0.375625, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 24, h = 0.4006, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 24, h = 0.425575, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 24, h = 0.45055, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 24, h = 0.475525, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 24, h = 0.5005, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 24, h = 0.525475, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 24, h = 0.55045, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 24, h = 0.575425, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 24, h = 0.6004, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 24, h = 0.625375, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 24, h = 0.65035, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 24, h = 0.675325, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 24, h = 0.7003, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 24, h = 0.725275, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 24, h = 0.75025, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 24, h = 0.775225, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 24, h = 0.8002, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 24, h = 0.825175, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 24, h = 0.85015, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 24, h = 0.875125, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 24, h = 0.9001, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 24, h = 0.925075, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 24, h = 0.95005, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 24, h = 0.975025, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 24, h = 1, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 25, h = 0.001, Delta of Call = 2.94274e-19, Delta of Put = -0.951229
+S = 25, h = 0.025975, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 25, h = 0.05095, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 25, h = 0.075925, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 25, h = 0.1009, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 25, h = 0.125875, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 25, h = 0.15085, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 25, h = 0.175825, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 25, h = 0.2008, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 25, h = 0.225775, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 25, h = 0.25075, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 25, h = 0.275725, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 25, h = 0.3007, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 25, h = 0.325675, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 25, h = 0.35065, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 25, h = 0.375625, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 25, h = 0.4006, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 25, h = 0.425575, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 25, h = 0.45055, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 25, h = 0.475525, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 25, h = 0.5005, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 25, h = 0.525475, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 25, h = 0.55045, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 25, h = 0.575425, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 25, h = 0.6004, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 25, h = 0.625375, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 25, h = 0.65035, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 25, h = 0.675325, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 25, h = 0.7003, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 25, h = 0.725275, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 25, h = 0.75025, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 25, h = 0.775225, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 25, h = 0.8002, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 25, h = 0.825175, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 25, h = 0.85015, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 25, h = 0.875125, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 25, h = 0.9001, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 25, h = 0.925075, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 25, h = 0.95005, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 25, h = 0.975025, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 25, h = 1, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 26, h = 0.001, Delta of Call = 3.04475e-19, Delta of Put = -0.951229
+S = 26, h = 0.025975, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 26, h = 0.05095, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 26, h = 0.075925, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 26, h = 0.1009, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 26, h = 0.125875, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 26, h = 0.15085, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 26, h = 0.175825, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 26, h = 0.2008, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 26, h = 0.225775, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 26, h = 0.25075, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 26, h = 0.275725, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 26, h = 0.3007, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 26, h = 0.325675, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 26, h = 0.35065, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 26, h = 0.375625, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 26, h = 0.4006, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 26, h = 0.425575, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 26, h = 0.45055, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 26, h = 0.475525, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 26, h = 0.5005, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 26, h = 0.525475, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 26, h = 0.55045, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 26, h = 0.575425, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 26, h = 0.6004, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 26, h = 0.625375, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 26, h = 0.65035, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 26, h = 0.675325, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 26, h = 0.7003, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 26, h = 0.725275, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 26, h = 0.75025, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 26, h = 0.775225, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 26, h = 0.8002, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 26, h = 0.825175, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 26, h = 0.85015, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 26, h = 0.875125, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 26, h = 0.9001, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 26, h = 0.925075, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 26, h = 0.95005, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 26, h = 0.975025, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 26, h = 1, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 27, h = 0.001, Delta of Call = 3.15541e-19, Delta of Put = -0.951229
+S = 27, h = 0.025975, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 27, h = 0.05095, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 27, h = 0.075925, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 27, h = 0.1009, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 27, h = 0.125875, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 27, h = 0.15085, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 27, h = 0.175825, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 27, h = 0.2008, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 27, h = 0.225775, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 27, h = 0.25075, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 27, h = 0.275725, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 27, h = 0.3007, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 27, h = 0.325675, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 27, h = 0.35065, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 27, h = 0.375625, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 27, h = 0.4006, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 27, h = 0.425575, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 27, h = 0.45055, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 27, h = 0.475525, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 27, h = 0.5005, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 27, h = 0.525475, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 27, h = 0.55045, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 27, h = 0.575425, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 27, h = 0.6004, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 27, h = 0.625375, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 27, h = 0.65035, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 27, h = 0.675325, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 27, h = 0.7003, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 27, h = 0.725275, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 27, h = 0.75025, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 27, h = 0.775225, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 27, h = 0.8002, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 27, h = 0.825175, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 27, h = 0.85015, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 27, h = 0.875125, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 27, h = 0.9001, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 27, h = 0.925075, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 27, h = 0.95005, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 27, h = 0.975025, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 27, h = 1, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 28, h = 0.001, Delta of Call = 3.27513e-19, Delta of Put = -0.951229
+S = 28, h = 0.025975, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 28, h = 0.05095, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 28, h = 0.075925, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 28, h = 0.1009, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 28, h = 0.125875, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 28, h = 0.15085, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 28, h = 0.175825, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 28, h = 0.2008, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 28, h = 0.225775, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 28, h = 0.25075, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 28, h = 0.275725, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 28, h = 0.3007, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 28, h = 0.325675, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 28, h = 0.35065, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 28, h = 0.375625, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 28, h = 0.4006, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 28, h = 0.425575, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 28, h = 0.45055, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 28, h = 0.475525, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 28, h = 0.5005, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 28, h = 0.525475, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 28, h = 0.55045, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 28, h = 0.575425, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 28, h = 0.6004, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 28, h = 0.625375, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 28, h = 0.65035, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 28, h = 0.675325, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 28, h = 0.7003, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 28, h = 0.725275, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 28, h = 0.75025, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 28, h = 0.775225, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 28, h = 0.8002, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 28, h = 0.825175, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 28, h = 0.85015, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 28, h = 0.875125, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 28, h = 0.9001, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 28, h = 0.925075, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 28, h = 0.95005, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 28, h = 0.975025, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 28, h = 1, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 29, h = 0.001, Delta of Call = 3.40438e-19, Delta of Put = -0.951229
+S = 29, h = 0.025975, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 29, h = 0.05095, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 29, h = 0.075925, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 29, h = 0.1009, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 29, h = 0.125875, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 29, h = 0.15085, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 29, h = 0.175825, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 29, h = 0.2008, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 29, h = 0.225775, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 29, h = 0.25075, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 29, h = 0.275725, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 29, h = 0.3007, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 29, h = 0.325675, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 29, h = 0.35065, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 29, h = 0.375625, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 29, h = 0.4006, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 29, h = 0.425575, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 29, h = 0.45055, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 29, h = 0.475525, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 29, h = 0.5005, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 29, h = 0.525475, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 29, h = 0.55045, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 29, h = 0.575425, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 29, h = 0.6004, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 29, h = 0.625375, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 29, h = 0.65035, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 29, h = 0.675325, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 29, h = 0.7003, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 29, h = 0.725275, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 29, h = 0.75025, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 29, h = 0.775225, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 29, h = 0.8002, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 29, h = 0.825175, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 29, h = 0.85015, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 29, h = 0.875125, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 29, h = 0.9001, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 29, h = 0.925075, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 29, h = 0.95005, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 29, h = 0.975025, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 29, h = 1, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 30, h = 0.001, Delta of Call = 3.54363e-19, Delta of Put = -0.951229
+S = 30, h = 0.025975, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 30, h = 0.05095, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 30, h = 0.075925, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 30, h = 0.1009, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 30, h = 0.125875, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 30, h = 0.15085, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 30, h = 0.175825, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 30, h = 0.2008, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 30, h = 0.225775, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 30, h = 0.25075, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 30, h = 0.275725, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 30, h = 0.3007, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 30, h = 0.325675, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 30, h = 0.35065, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 30, h = 0.375625, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 30, h = 0.4006, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 30, h = 0.425575, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 30, h = 0.45055, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 30, h = 0.475525, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 30, h = 0.5005, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 30, h = 0.525475, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 30, h = 0.55045, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 30, h = 0.575425, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 30, h = 0.6004, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 30, h = 0.625375, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 30, h = 0.65035, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 30, h = 0.675325, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 30, h = 0.7003, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 30, h = 0.725275, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 30, h = 0.75025, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 30, h = 0.775225, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 30, h = 0.8002, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 30, h = 0.825175, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 30, h = 0.85015, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 30, h = 0.875125, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 30, h = 0.9001, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 30, h = 0.925075, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 30, h = 0.95005, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 30, h = 0.975025, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 30, h = 1, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 31, h = 0.001, Delta of Call = 3.69341e-19, Delta of Put = -0.951229
+S = 31, h = 0.025975, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 31, h = 0.05095, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 31, h = 0.075925, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 31, h = 0.1009, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 31, h = 0.125875, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 31, h = 0.15085, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 31, h = 0.175825, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 31, h = 0.2008, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 31, h = 0.225775, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 31, h = 0.25075, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 31, h = 0.275725, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 31, h = 0.3007, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 31, h = 0.325675, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 31, h = 0.35065, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 31, h = 0.375625, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 31, h = 0.4006, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 31, h = 0.425575, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 31, h = 0.45055, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 31, h = 0.475525, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 31, h = 0.5005, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 31, h = 0.525475, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 31, h = 0.55045, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 31, h = 0.575425, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 31, h = 0.6004, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 31, h = 0.625375, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 31, h = 0.65035, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 31, h = 0.675325, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 31, h = 0.7003, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 31, h = 0.725275, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 31, h = 0.75025, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 31, h = 0.775225, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 31, h = 0.8002, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 31, h = 0.825175, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 31, h = 0.85015, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 31, h = 0.875125, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 31, h = 0.9001, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 31, h = 0.925075, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 31, h = 0.95005, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 31, h = 0.975025, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 31, h = 1, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 32, h = 0.001, Delta of Call = 3.85428e-19, Delta of Put = -0.951229
+S = 32, h = 0.025975, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 32, h = 0.05095, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 32, h = 0.075925, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 32, h = 0.1009, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 32, h = 0.125875, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 32, h = 0.15085, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 32, h = 0.175825, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 32, h = 0.2008, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 32, h = 0.225775, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 32, h = 0.25075, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 32, h = 0.275725, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 32, h = 0.3007, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 32, h = 0.325675, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 32, h = 0.35065, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 32, h = 0.375625, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 32, h = 0.4006, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 32, h = 0.425575, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 32, h = 0.45055, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 32, h = 0.475525, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 32, h = 0.5005, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 32, h = 0.525475, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 32, h = 0.55045, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 32, h = 0.575425, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 32, h = 0.6004, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 32, h = 0.625375, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 32, h = 0.65035, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 32, h = 0.675325, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 32, h = 0.7003, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 32, h = 0.725275, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 32, h = 0.75025, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 32, h = 0.775225, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 32, h = 0.8002, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 32, h = 0.825175, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 32, h = 0.85015, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 32, h = 0.875125, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 32, h = 0.9001, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 32, h = 0.925075, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 32, h = 0.95005, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 32, h = 0.975025, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 32, h = 1, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 33, h = 0.001, Delta of Call = 4.02685e-19, Delta of Put = -0.951229
+S = 33, h = 0.025975, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 33, h = 0.05095, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 33, h = 0.075925, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 33, h = 0.1009, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 33, h = 0.125875, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 33, h = 0.15085, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 33, h = 0.175825, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 33, h = 0.2008, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 33, h = 0.225775, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 33, h = 0.25075, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 33, h = 0.275725, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 33, h = 0.3007, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 33, h = 0.325675, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 33, h = 0.35065, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 33, h = 0.375625, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 33, h = 0.4006, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 33, h = 0.425575, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 33, h = 0.45055, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 33, h = 0.475525, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 33, h = 0.5005, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 33, h = 0.525475, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 33, h = 0.55045, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 33, h = 0.575425, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 33, h = 0.6004, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 33, h = 0.625375, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 33, h = 0.65035, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 33, h = 0.675325, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 33, h = 0.7003, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 33, h = 0.725275, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 33, h = 0.75025, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 33, h = 0.775225, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 33, h = 0.8002, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 33, h = 0.825175, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 33, h = 0.85015, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 33, h = 0.875125, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 33, h = 0.9001, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 33, h = 0.925075, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 33, h = 0.95005, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 33, h = 0.975025, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 33, h = 1, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 34, h = 0.001, Delta of Call = 4.21177e-19, Delta of Put = -0.951229
+S = 34, h = 0.025975, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 34, h = 0.05095, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 34, h = 0.075925, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 34, h = 0.1009, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 34, h = 0.125875, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 34, h = 0.15085, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 34, h = 0.175825, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 34, h = 0.2008, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 34, h = 0.225775, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 34, h = 0.25075, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 34, h = 0.275725, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 34, h = 0.3007, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 34, h = 0.325675, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 34, h = 0.35065, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 34, h = 0.375625, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 34, h = 0.4006, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 34, h = 0.425575, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 34, h = 0.45055, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 34, h = 0.475525, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 34, h = 0.5005, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 34, h = 0.525475, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 34, h = 0.55045, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 34, h = 0.575425, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 34, h = 0.6004, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 34, h = 0.625375, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 34, h = 0.65035, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 34, h = 0.675325, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 34, h = 0.7003, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 34, h = 0.725275, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 34, h = 0.75025, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 34, h = 0.775225, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 34, h = 0.8002, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 34, h = 0.825175, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 34, h = 0.85015, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 34, h = 0.875125, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 34, h = 0.9001, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 34, h = 0.925075, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 34, h = 0.95005, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 34, h = 0.975025, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 34, h = 1, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 35, h = 0.001, Delta of Call = 4.40973e-19, Delta of Put = -0.951229
+S = 35, h = 0.025975, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 35, h = 0.05095, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 35, h = 0.075925, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 35, h = 0.1009, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 35, h = 0.125875, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 35, h = 0.15085, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 35, h = 0.175825, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 35, h = 0.2008, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 35, h = 0.225775, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 35, h = 0.25075, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 35, h = 0.275725, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 35, h = 0.3007, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 35, h = 0.325675, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 35, h = 0.35065, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 35, h = 0.375625, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 35, h = 0.4006, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 35, h = 0.425575, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 35, h = 0.45055, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 35, h = 0.475525, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 35, h = 0.5005, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 35, h = 0.525475, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 35, h = 0.55045, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 35, h = 0.575425, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 35, h = 0.6004, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 35, h = 0.625375, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 35, h = 0.65035, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 35, h = 0.675325, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 35, h = 0.7003, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 35, h = 0.725275, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 35, h = 0.75025, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 35, h = 0.775225, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 35, h = 0.8002, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 35, h = 0.825175, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 35, h = 0.85015, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 35, h = 0.875125, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 35, h = 0.9001, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 35, h = 0.925075, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 35, h = 0.95005, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 35, h = 0.975025, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 35, h = 1, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 36, h = 0.001, Delta of Call = 4.62147e-19, Delta of Put = -0.951229
+S = 36, h = 0.025975, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 36, h = 0.05095, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 36, h = 0.075925, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 36, h = 0.1009, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 36, h = 0.125875, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 36, h = 0.15085, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 36, h = 0.175825, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 36, h = 0.2008, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 36, h = 0.225775, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 36, h = 0.25075, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 36, h = 0.275725, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 36, h = 0.3007, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 36, h = 0.325675, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 36, h = 0.35065, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 36, h = 0.375625, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 36, h = 0.4006, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 36, h = 0.425575, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 36, h = 0.45055, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 36, h = 0.475525, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 36, h = 0.5005, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 36, h = 0.525475, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 36, h = 0.55045, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 36, h = 0.575425, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 36, h = 0.6004, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 36, h = 0.625375, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 36, h = 0.65035, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 36, h = 0.675325, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 36, h = 0.7003, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 36, h = 0.725275, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 36, h = 0.75025, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 36, h = 0.775225, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 36, h = 0.8002, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 36, h = 0.825175, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 36, h = 0.85015, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 36, h = 0.875125, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 36, h = 0.9001, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 36, h = 0.925075, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 36, h = 0.95005, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 36, h = 0.975025, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 36, h = 1, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 37, h = 0.001, Delta of Call = 4.84778e-19, Delta of Put = -0.951229
+S = 37, h = 0.025975, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 37, h = 0.05095, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 37, h = 0.075925, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 37, h = 0.1009, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 37, h = 0.125875, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 37, h = 0.15085, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 37, h = 0.175825, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 37, h = 0.2008, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 37, h = 0.225775, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 37, h = 0.25075, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 37, h = 0.275725, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 37, h = 0.3007, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 37, h = 0.325675, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 37, h = 0.35065, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 37, h = 0.375625, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 37, h = 0.4006, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 37, h = 0.425575, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 37, h = 0.45055, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 37, h = 0.475525, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 37, h = 0.5005, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 37, h = 0.525475, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 37, h = 0.55045, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 37, h = 0.575425, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 37, h = 0.6004, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 37, h = 0.625375, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 37, h = 0.65035, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 37, h = 0.675325, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 37, h = 0.7003, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 37, h = 0.725275, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 37, h = 0.75025, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 37, h = 0.775225, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 37, h = 0.8002, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 37, h = 0.825175, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 37, h = 0.85015, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 37, h = 0.875125, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 37, h = 0.9001, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 37, h = 0.925075, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 37, h = 0.95005, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 37, h = 0.975025, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 37, h = 1, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 38, h = 0.001, Delta of Call = 5.08952e-19, Delta of Put = -0.951229
+S = 38, h = 0.025975, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 38, h = 0.05095, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 38, h = 0.075925, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 38, h = 0.1009, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 38, h = 0.125875, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 38, h = 0.15085, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 38, h = 0.175825, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 38, h = 0.2008, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 38, h = 0.225775, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 38, h = 0.25075, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 38, h = 0.275725, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 38, h = 0.3007, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 38, h = 0.325675, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 38, h = 0.35065, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 38, h = 0.375625, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 38, h = 0.4006, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 38, h = 0.425575, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 38, h = 0.45055, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 38, h = 0.475525, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 38, h = 0.5005, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 38, h = 0.525475, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 38, h = 0.55045, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 38, h = 0.575425, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 38, h = 0.6004, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 38, h = 0.625375, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 38, h = 0.65035, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 38, h = 0.675325, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 38, h = 0.7003, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 38, h = 0.725275, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 38, h = 0.75025, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 38, h = 0.775225, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 38, h = 0.8002, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 38, h = 0.825175, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 38, h = 0.85015, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 38, h = 0.875125, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 38, h = 0.9001, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 38, h = 0.925075, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 38, h = 0.95005, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 38, h = 0.975025, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 38, h = 1, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 39, h = 0.001, Delta of Call = 5.34758e-19, Delta of Put = -0.951229
+S = 39, h = 0.025975, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 39, h = 0.05095, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 39, h = 0.075925, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 39, h = 0.1009, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 39, h = 0.125875, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 39, h = 0.15085, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 39, h = 0.175825, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 39, h = 0.2008, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 39, h = 0.225775, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 39, h = 0.25075, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 39, h = 0.275725, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 39, h = 0.3007, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 39, h = 0.325675, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 39, h = 0.35065, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 39, h = 0.375625, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 39, h = 0.4006, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 39, h = 0.425575, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 39, h = 0.45055, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 39, h = 0.475525, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 39, h = 0.5005, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 39, h = 0.525475, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 39, h = 0.55045, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 39, h = 0.575425, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 39, h = 0.6004, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 39, h = 0.625375, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 39, h = 0.65035, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 39, h = 0.675325, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 39, h = 0.7003, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 39, h = 0.725275, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 39, h = 0.75025, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 39, h = 0.775225, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 39, h = 0.8002, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 39, h = 0.825175, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 39, h = 0.85015, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 39, h = 0.875125, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 39, h = 0.9001, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 39, h = 0.925075, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 39, h = 0.95005, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 39, h = 0.975025, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 39, h = 1, Delta of Call = 1.17322e-17, Delta of Put = -0.951229
+S = 40, h = 0.001, Delta of Call = 5.62293e-19, Delta of Put = -0.951229
+S = 40, h = 0.025975, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 40, h = 0.05095, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 40, h = 0.075925, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 40, h = 0.1009, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 40, h = 0.125875, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 40, h = 0.15085, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 40, h = 0.175825, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 40, h = 0.2008, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 40, h = 0.225775, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 40, h = 0.25075, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 40, h = 0.275725, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 40, h = 0.3007, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 40, h = 0.325675, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 40, h = 0.35065, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 40, h = 0.375625, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 40, h = 0.4006, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 40, h = 0.425575, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 40, h = 0.45055, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 40, h = 0.475525, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 40, h = 0.5005, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 40, h = 0.525475, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 40, h = 0.55045, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 40, h = 0.575425, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 40, h = 0.6004, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 40, h = 0.625375, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 40, h = 0.65035, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 40, h = 0.675325, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 40, h = 0.7003, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 40, h = 0.725275, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 40, h = 0.75025, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 40, h = 0.775225, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 40, h = 0.8002, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 40, h = 0.825175, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 40, h = 0.85015, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 40, h = 0.875125, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 40, h = 0.9001, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 40, h = 0.925075, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 40, h = 0.95005, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 40, h = 0.975025, Delta of Call = 1.17322e-17, Delta of Put = -0.951229
+S = 40, h = 1, Delta of Call = 1.22128e-17, Delta of Put = -0.951229
+S = 41, h = 0.001, Delta of Call = 5.91659e-19, Delta of Put = -0.951229
+S = 41, h = 0.025975, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 41, h = 0.05095, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 41, h = 0.075925, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 41, h = 0.1009, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 41, h = 0.125875, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 41, h = 0.15085, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 41, h = 0.175825, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 41, h = 0.2008, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 41, h = 0.225775, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 41, h = 0.25075, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 41, h = 0.275725, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 41, h = 0.3007, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 41, h = 0.325675, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 41, h = 0.35065, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 41, h = 0.375625, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 41, h = 0.4006, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 41, h = 0.425575, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 41, h = 0.45055, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 41, h = 0.475525, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 41, h = 0.5005, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 41, h = 0.525475, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 41, h = 0.55045, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 41, h = 0.575425, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 41, h = 0.6004, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 41, h = 0.625375, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 41, h = 0.65035, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 41, h = 0.675325, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 41, h = 0.7003, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 41, h = 0.725275, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 41, h = 0.75025, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 41, h = 0.775225, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 41, h = 0.8002, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 41, h = 0.825175, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 41, h = 0.85015, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 41, h = 0.875125, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 41, h = 0.9001, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 41, h = 0.925075, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 41, h = 0.95005, Delta of Call = 1.17322e-17, Delta of Put = -0.951229
+S = 41, h = 0.975025, Delta of Call = 1.22128e-17, Delta of Put = -0.951229
+S = 41, h = 1, Delta of Call = 1.27221e-17, Delta of Put = -0.951229
+S = 42, h = 0.001, Delta of Call = 6.22965e-19, Delta of Put = -0.951229
+S = 42, h = 0.025975, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 42, h = 0.05095, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 42, h = 0.075925, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 42, h = 0.1009, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 42, h = 0.125875, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 42, h = 0.15085, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 42, h = 0.175825, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 42, h = 0.2008, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 42, h = 0.225775, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 42, h = 0.25075, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 42, h = 0.275725, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 42, h = 0.3007, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 42, h = 0.325675, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 42, h = 0.35065, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 42, h = 0.375625, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 42, h = 0.4006, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 42, h = 0.425575, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 42, h = 0.45055, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 42, h = 0.475525, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 42, h = 0.5005, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 42, h = 0.525475, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 42, h = 0.55045, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 42, h = 0.575425, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 42, h = 0.6004, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 42, h = 0.625375, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 42, h = 0.65035, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 42, h = 0.675325, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 42, h = 0.7003, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 42, h = 0.725275, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 42, h = 0.75025, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 42, h = 0.775225, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 42, h = 0.8002, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 42, h = 0.825175, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 42, h = 0.85015, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 42, h = 0.875125, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 42, h = 0.9001, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 42, h = 0.925075, Delta of Call = 1.17322e-17, Delta of Put = -0.951229
+S = 42, h = 0.95005, Delta of Call = 1.22128e-17, Delta of Put = -0.951229
+S = 42, h = 0.975025, Delta of Call = 1.27221e-17, Delta of Put = -0.951229
+S = 42, h = 1, Delta of Call = 1.32617e-17, Delta of Put = -0.951229
+S = 43, h = 0.001, Delta of Call = 6.56328e-19, Delta of Put = -0.951229
+S = 43, h = 0.025975, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 43, h = 0.05095, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 43, h = 0.075925, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 43, h = 0.1009, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 43, h = 0.125875, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 43, h = 0.15085, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 43, h = 0.175825, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 43, h = 0.2008, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 43, h = 0.225775, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 43, h = 0.25075, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 43, h = 0.275725, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 43, h = 0.3007, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 43, h = 0.325675, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 43, h = 0.35065, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 43, h = 0.375625, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 43, h = 0.4006, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 43, h = 0.425575, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 43, h = 0.45055, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 43, h = 0.475525, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 43, h = 0.5005, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 43, h = 0.525475, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 43, h = 0.55045, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 43, h = 0.575425, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 43, h = 0.6004, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 43, h = 0.625375, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 43, h = 0.65035, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 43, h = 0.675325, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 43, h = 0.7003, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 43, h = 0.725275, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 43, h = 0.75025, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 43, h = 0.775225, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 43, h = 0.8002, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 43, h = 0.825175, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 43, h = 0.85015, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 43, h = 0.875125, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 43, h = 0.9001, Delta of Call = 1.17322e-17, Delta of Put = -0.951229
+S = 43, h = 0.925075, Delta of Call = 1.22128e-17, Delta of Put = -0.951229
+S = 43, h = 0.95005, Delta of Call = 1.27221e-17, Delta of Put = -0.951229
+S = 43, h = 0.975025, Delta of Call = 1.32617e-17, Delta of Put = -0.951229
+S = 43, h = 1, Delta of Call = 1.38329e-17, Delta of Put = -0.951229
+S = 44, h = 0.001, Delta of Call = 6.91871e-19, Delta of Put = -0.951229
+S = 44, h = 0.025975, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 44, h = 0.05095, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 44, h = 0.075925, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 44, h = 0.1009, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 44, h = 0.125875, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 44, h = 0.15085, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 44, h = 0.175825, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 44, h = 0.2008, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 44, h = 0.225775, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 44, h = 0.25075, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 44, h = 0.275725, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 44, h = 0.3007, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 44, h = 0.325675, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 44, h = 0.35065, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 44, h = 0.375625, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 44, h = 0.4006, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 44, h = 0.425575, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 44, h = 0.45055, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 44, h = 0.475525, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 44, h = 0.5005, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 44, h = 0.525475, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 44, h = 0.55045, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 44, h = 0.575425, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 44, h = 0.6004, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 44, h = 0.625375, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 44, h = 0.65035, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 44, h = 0.675325, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 44, h = 0.7003, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 44, h = 0.725275, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 44, h = 0.75025, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 44, h = 0.775225, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 44, h = 0.8002, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 44, h = 0.825175, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 44, h = 0.85015, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 44, h = 0.875125, Delta of Call = 1.17322e-17, Delta of Put = -0.951229
+S = 44, h = 0.9001, Delta of Call = 1.22128e-17, Delta of Put = -0.951229
+S = 44, h = 0.925075, Delta of Call = 1.27221e-17, Delta of Put = -0.951229
+S = 44, h = 0.95005, Delta of Call = 1.32617e-17, Delta of Put = -0.951229
+S = 44, h = 0.975025, Delta of Call = 1.38329e-17, Delta of Put = -0.951229
+S = 44, h = 1, Delta of Call = 1.44374e-17, Delta of Put = -0.951229
+S = 45, h = 0.001, Delta of Call = 7.29726e-19, Delta of Put = -0.951229
+S = 45, h = 0.025975, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 45, h = 0.05095, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 45, h = 0.075925, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 45, h = 0.1009, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 45, h = 0.125875, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 45, h = 0.15085, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 45, h = 0.175825, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 45, h = 0.2008, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 45, h = 0.225775, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 45, h = 0.25075, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 45, h = 0.275725, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 45, h = 0.3007, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 45, h = 0.325675, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 45, h = 0.35065, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 45, h = 0.375625, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 45, h = 0.4006, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 45, h = 0.425575, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 45, h = 0.45055, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 45, h = 0.475525, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 45, h = 0.5005, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 45, h = 0.525475, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 45, h = 0.55045, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 45, h = 0.575425, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 45, h = 0.6004, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 45, h = 0.625375, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 45, h = 0.65035, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 45, h = 0.675325, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 45, h = 0.7003, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 45, h = 0.725275, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 45, h = 0.75025, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 45, h = 0.775225, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 45, h = 0.8002, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 45, h = 0.825175, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 45, h = 0.85015, Delta of Call = 1.17322e-17, Delta of Put = -0.951229
+S = 45, h = 0.875125, Delta of Call = 1.22128e-17, Delta of Put = -0.951229
+S = 45, h = 0.9001, Delta of Call = 1.27221e-17, Delta of Put = -0.951229
+S = 45, h = 0.925075, Delta of Call = 1.32617e-17, Delta of Put = -0.951229
+S = 45, h = 0.95005, Delta of Call = 1.38329e-17, Delta of Put = -0.951229
+S = 45, h = 0.975025, Delta of Call = 1.44374e-17, Delta of Put = -0.951229
+S = 45, h = 1, Delta of Call = 1.5077e-17, Delta of Put = -0.951229
+S = 46, h = 0.001, Delta of Call = 7.70032e-19, Delta of Put = -0.951229
+S = 46, h = 0.025975, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 46, h = 0.05095, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 46, h = 0.075925, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 46, h = 0.1009, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 46, h = 0.125875, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 46, h = 0.15085, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 46, h = 0.175825, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 46, h = 0.2008, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 46, h = 0.225775, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 46, h = 0.25075, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 46, h = 0.275725, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 46, h = 0.3007, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 46, h = 0.325675, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 46, h = 0.35065, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 46, h = 0.375625, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 46, h = 0.4006, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 46, h = 0.425575, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 46, h = 0.45055, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 46, h = 0.475525, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 46, h = 0.5005, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 46, h = 0.525475, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 46, h = 0.55045, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 46, h = 0.575425, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 46, h = 0.6004, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 46, h = 0.625375, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 46, h = 0.65035, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 46, h = 0.675325, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 46, h = 0.7003, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 46, h = 0.725275, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 46, h = 0.75025, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 46, h = 0.775225, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 46, h = 0.8002, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 46, h = 0.825175, Delta of Call = 1.17322e-17, Delta of Put = -0.951229
+S = 46, h = 0.85015, Delta of Call = 1.22128e-17, Delta of Put = -0.951229
+S = 46, h = 0.875125, Delta of Call = 1.27221e-17, Delta of Put = -0.951229
+S = 46, h = 0.9001, Delta of Call = 1.32617e-17, Delta of Put = -0.951229
+S = 46, h = 0.925075, Delta of Call = 1.38329e-17, Delta of Put = -0.951229
+S = 46, h = 0.95005, Delta of Call = 1.44374e-17, Delta of Put = -0.951229
+S = 46, h = 0.975025, Delta of Call = 1.5077e-17, Delta of Put = -0.951229
+S = 46, h = 1, Delta of Call = 1.57532e-17, Delta of Put = -0.951229
+S = 47, h = 0.001, Delta of Call = 8.12938e-19, Delta of Put = -0.951229
+S = 47, h = 0.025975, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 47, h = 0.05095, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 47, h = 0.075925, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 47, h = 0.1009, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 47, h = 0.125875, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 47, h = 0.15085, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 47, h = 0.175825, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 47, h = 0.2008, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 47, h = 0.225775, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 47, h = 0.25075, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 47, h = 0.275725, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 47, h = 0.3007, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 47, h = 0.325675, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 47, h = 0.35065, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 47, h = 0.375625, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 47, h = 0.4006, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 47, h = 0.425575, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 47, h = 0.45055, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 47, h = 0.475525, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 47, h = 0.5005, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 47, h = 0.525475, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 47, h = 0.55045, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 47, h = 0.575425, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 47, h = 0.6004, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 47, h = 0.625375, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 47, h = 0.65035, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 47, h = 0.675325, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 47, h = 0.7003, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 47, h = 0.725275, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 47, h = 0.75025, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 47, h = 0.775225, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 47, h = 0.8002, Delta of Call = 1.17322e-17, Delta of Put = -0.951229
+S = 47, h = 0.825175, Delta of Call = 1.22128e-17, Delta of Put = -0.951229
+S = 47, h = 0.85015, Delta of Call = 1.27221e-17, Delta of Put = -0.951229
+S = 47, h = 0.875125, Delta of Call = 1.32617e-17, Delta of Put = -0.951229
+S = 47, h = 0.9001, Delta of Call = 1.38329e-17, Delta of Put = -0.951229
+S = 47, h = 0.925075, Delta of Call = 1.44374e-17, Delta of Put = -0.951229
+S = 47, h = 0.95005, Delta of Call = 1.5077e-17, Delta of Put = -0.951229
+S = 47, h = 0.975025, Delta of Call = 1.57532e-17, Delta of Put = -0.951229
+S = 47, h = 1, Delta of Call = 1.64681e-17, Delta of Put = -0.951229
+S = 48, h = 0.001, Delta of Call = 8.58603e-19, Delta of Put = -0.951229
+S = 48, h = 0.025975, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 48, h = 0.05095, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 48, h = 0.075925, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 48, h = 0.1009, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 48, h = 0.125875, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 48, h = 0.15085, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 48, h = 0.175825, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 48, h = 0.2008, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 48, h = 0.225775, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 48, h = 0.25075, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 48, h = 0.275725, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 48, h = 0.3007, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 48, h = 0.325675, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 48, h = 0.35065, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 48, h = 0.375625, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 48, h = 0.4006, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 48, h = 0.425575, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 48, h = 0.45055, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 48, h = 0.475525, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 48, h = 0.5005, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 48, h = 0.525475, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 48, h = 0.55045, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 48, h = 0.575425, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 48, h = 0.6004, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 48, h = 0.625375, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 48, h = 0.65035, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 48, h = 0.675325, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 48, h = 0.7003, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 48, h = 0.725275, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 48, h = 0.75025, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 48, h = 0.775225, Delta of Call = 1.17322e-17, Delta of Put = -0.951229
+S = 48, h = 0.8002, Delta of Call = 1.22128e-17, Delta of Put = -0.951229
+S = 48, h = 0.825175, Delta of Call = 1.27221e-17, Delta of Put = -0.951229
+S = 48, h = 0.85015, Delta of Call = 1.32617e-17, Delta of Put = -0.951229
+S = 48, h = 0.875125, Delta of Call = 1.38329e-17, Delta of Put = -0.951229
+S = 48, h = 0.9001, Delta of Call = 1.44374e-17, Delta of Put = -0.951229
+S = 48, h = 0.925075, Delta of Call = 1.5077e-17, Delta of Put = -0.951229
+S = 48, h = 0.95005, Delta of Call = 1.57532e-17, Delta of Put = -0.951229
+S = 48, h = 0.975025, Delta of Call = 1.64681e-17, Delta of Put = -0.951229
+S = 48, h = 1, Delta of Call = 1.72236e-17, Delta of Put = -0.951229
+S = 49, h = 0.001, Delta of Call = 9.07193e-19, Delta of Put = -0.951229
+S = 49, h = 0.025975, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 49, h = 0.05095, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 49, h = 0.075925, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 49, h = 0.1009, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 49, h = 0.125875, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 49, h = 0.15085, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 49, h = 0.175825, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 49, h = 0.2008, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 49, h = 0.225775, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 49, h = 0.25075, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 49, h = 0.275725, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 49, h = 0.3007, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 49, h = 0.325675, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 49, h = 0.35065, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 49, h = 0.375625, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 49, h = 0.4006, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 49, h = 0.425575, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 49, h = 0.45055, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 49, h = 0.475525, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 49, h = 0.5005, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 49, h = 0.525475, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 49, h = 0.55045, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 49, h = 0.575425, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 49, h = 0.6004, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 49, h = 0.625375, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 49, h = 0.65035, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 49, h = 0.675325, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 49, h = 0.7003, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 49, h = 0.725275, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 49, h = 0.75025, Delta of Call = 1.17322e-17, Delta of Put = -0.951229
+S = 49, h = 0.775225, Delta of Call = 1.22128e-17, Delta of Put = -0.951229
+S = 49, h = 0.8002, Delta of Call = 1.27221e-17, Delta of Put = -0.951229
+S = 49, h = 0.825175, Delta of Call = 1.32617e-17, Delta of Put = -0.951229
+S = 49, h = 0.85015, Delta of Call = 1.38329e-17, Delta of Put = -0.951229
+S = 49, h = 0.875125, Delta of Call = 1.44374e-17, Delta of Put = -0.951229
+S = 49, h = 0.9001, Delta of Call = 1.5077e-17, Delta of Put = -0.951229
+S = 49, h = 0.925075, Delta of Call = 1.57532e-17, Delta of Put = -0.951229
+S = 49, h = 0.95005, Delta of Call = 1.64681e-17, Delta of Put = -0.951229
+S = 49, h = 0.975025, Delta of Call = 1.72236e-17, Delta of Put = -0.951229
+S = 49, h = 1, Delta of Call = 1.80218e-17, Delta of Put = -0.951229
+S = 50, h = 0.001, Delta of Call = 9.58887e-19, Delta of Put = -0.951229
+S = 50, h = 0.025975, Delta of Call = 6.18175e-18, Delta of Put = -0.951229
+S = 50, h = 0.05095, Delta of Call = 6.18811e-18, Delta of Put = -0.951229
+S = 50, h = 0.075925, Delta of Call = 6.20625e-18, Delta of Put = -0.951229
+S = 50, h = 0.1009, Delta of Call = 6.23622e-18, Delta of Put = -0.951229
+S = 50, h = 0.125875, Delta of Call = 6.27812e-18, Delta of Put = -0.951229
+S = 50, h = 0.15085, Delta of Call = 6.33206e-18, Delta of Put = -0.951229
+S = 50, h = 0.175825, Delta of Call = 6.39819e-18, Delta of Put = -0.951229
+S = 50, h = 0.2008, Delta of Call = 6.47671e-18, Delta of Put = -0.951229
+S = 50, h = 0.225775, Delta of Call = 6.56783e-18, Delta of Put = -0.951229
+S = 50, h = 0.25075, Delta of Call = 6.67182e-18, Delta of Put = -0.951229
+S = 50, h = 0.275725, Delta of Call = 6.78896e-18, Delta of Put = -0.951229
+S = 50, h = 0.3007, Delta of Call = 6.9196e-18, Delta of Put = -0.951229
+S = 50, h = 0.325675, Delta of Call = 7.06411e-18, Delta of Put = -0.951229
+S = 50, h = 0.35065, Delta of Call = 7.22288e-18, Delta of Put = -0.951229
+S = 50, h = 0.375625, Delta of Call = 7.39639e-18, Delta of Put = -0.951229
+S = 50, h = 0.4006, Delta of Call = 7.58511e-18, Delta of Put = -0.951229
+S = 50, h = 0.425575, Delta of Call = 7.78958e-18, Delta of Put = -0.951229
+S = 50, h = 0.45055, Delta of Call = 8.01038e-18, Delta of Put = -0.951229
+S = 50, h = 0.475525, Delta of Call = 8.24813e-18, Delta of Put = -0.951229
+S = 50, h = 0.5005, Delta of Call = 8.50352e-18, Delta of Put = -0.951229
+S = 50, h = 0.525475, Delta of Call = 8.77725e-18, Delta of Put = -0.951229
+S = 50, h = 0.55045, Delta of Call = 9.0701e-18, Delta of Put = -0.951229
+S = 50, h = 0.575425, Delta of Call = 9.38291e-18, Delta of Put = -0.951229
+S = 50, h = 0.6004, Delta of Call = 9.71655e-18, Delta of Put = -0.951229
+S = 50, h = 0.625375, Delta of Call = 1.0072e-17, Delta of Put = -0.951229
+S = 50, h = 0.65035, Delta of Call = 1.04501e-17, Delta of Put = -0.951229
+S = 50, h = 0.675325, Delta of Call = 1.08521e-17, Delta of Put = -0.951229
+S = 50, h = 0.7003, Delta of Call = 1.12791e-17, Delta of Put = -0.951229
+S = 50, h = 0.725275, Delta of Call = 1.17322e-17, Delta of Put = -0.951229
+S = 50, h = 0.75025, Delta of Call = 1.22128e-17, Delta of Put = -0.951229
+S = 50, h = 0.775225, Delta of Call = 1.27221e-17, Delta of Put = -0.951229
+S = 50, h = 0.8002, Delta of Call = 1.32617e-17, Delta of Put = -0.951229
+S = 50, h = 0.825175, Delta of Call = 1.38329e-17, Delta of Put = -0.951229
+S = 50, h = 0.85015, Delta of Call = 1.44374e-17, Delta of Put = -0.951229
+S = 50, h = 0.875125, Delta of Call = 1.5077e-17, Delta of Put = -0.951229
+S = 50, h = 0.9001, Delta of Call = 1.57532e-17, Delta of Put = -0.951229
+S = 50, h = 0.925075, Delta of Call = 1.64681e-17, Delta of Put = -0.951229
+S = 50, h = 0.95005, Delta of Call = 1.72236e-17, Delta of Put = -0.951229
+S = 50, h = 0.975025, Delta of Call = 1.80218e-17, Delta of Put = -0.951229
+S = 50, h = 1, Delta of Call = 1.88649e-17, Delta of Put = -0.951229
